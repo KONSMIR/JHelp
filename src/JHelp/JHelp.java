@@ -7,7 +7,6 @@ package JHelp;
 /**
  * Interface for implementation by <code>Client, MClient, Server</code> and
  * <code>ServerDb</code> classes.
- * @author <strong >Y.D.Zakovryashin, 2009</strong>
  * @version 1.0
  * @see jhelp.Server
  * @see jhelp.ServerDb

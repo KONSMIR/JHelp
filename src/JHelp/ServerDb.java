@@ -44,7 +44,6 @@ import java.util.Properties;
  *       return DriverManager.getConnection(databaseURL, "", "");
  *   }
  *</pre></code>
- *  @author <strong >Y.D.Zakovryashin, 2009</strong>
  */
 public class ServerDb implements JHelp {
 
@@ -210,12 +209,12 @@ public class ServerDb implements JHelp {
     }
     
     public String stInsert(int id, String key) {
-        String sql = "insert into tblTerms values (" +id+ ", '" + key + "')";
+        String sql = "insert into tblTerms values (" + id + ", '" + key + "')";
         return sql;
     }
     
     public String stInsert(int id, String value, int fk) {
-        String sql = "insert into tblDefinitions values (" +id + ", '" + value + "' ," + fk + ")";
+        String sql = "insert into tblDefinitions values (" + id + ", '" + value + "' ," + fk + ")";
         return sql;
     }
 

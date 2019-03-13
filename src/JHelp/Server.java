@@ -14,7 +14,6 @@ import java.net.Socket;
 /**
  * This class sets a network connection between end client's objects
  * of {@link jhelp.Client} type and single {@link jhelp.ServerDb} object.
- * @author <strong >Y.D.Zakovryashin, 2009</strong>
  * @version 1.0
  * @see jhelp.Client
  * @see jhelp.ClientThread

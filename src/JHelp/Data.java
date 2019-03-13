@@ -12,7 +12,6 @@ import java.io.Serializable;
  * or key value as a {@link jhelp.Item} object. Attribute <code>values</code>
  * is array of {@link jhelp.Item} objects. The attribute presents a set of
  * definitions for the <code>key</code>.
- * @author <strong >Y.D.Zakovryashin</strong>, 2009
  */
 public class Data implements Serializable {
 

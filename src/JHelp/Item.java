@@ -14,7 +14,6 @@ import java.io.Serializable;
  * presents any string data, for example term or definition. Attribute <code>
  * state</code> is current state of item. All legal values for <code>state</code>
  * are defined in {@link jhelp.JHelp} interface.
- * @author <strong >Y.D.Zakovryashin, 2009</strong>
  * @version 1.01
  * @see jhelp.Data
  */

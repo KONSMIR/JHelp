@@ -24,7 +24,6 @@ import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
 
 /**
  * Client class provides users's interface of the application.
- * @author <strong >Y.D.Zakovryashin, 2009</strong>
  * @version 1.0
  */
 public class Client extends JFrame implements JHelp {

@@ -14,7 +14,6 @@ import java.awt.event.WindowAdapter;
 
 /**
  * Class defines a process for all events what happens in client form.
- * @author <strong >Y.D.Zakovryashin</strong>, 2009
  * @version 1.0
  */
 public class ClientListener extends WindowAdapter

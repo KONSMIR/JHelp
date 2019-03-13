@@ -12,7 +12,6 @@ import java.net.Socket;
  * This class provides a network connection between end client of
  * {@link jhelp.Client} type and {@link jhelp.Server} object. Every object of
  * this class may work in separate thread.
- * @author <strong >Y.D.Zakovryashin, 2009</strong>
  * @version 1.0
  * @see jhelp.Client
  * @see jhelp.Server
